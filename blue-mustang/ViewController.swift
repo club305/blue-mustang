@@ -1,7 +1,6 @@
 //
 //  ViewController.swift
 //  blue-mustang
-//  test
 //
 //  Created by Marcus Coates on 4/23/18.
 //  Copyright © 2018 Marcus L. Coates. All rights reserved.
